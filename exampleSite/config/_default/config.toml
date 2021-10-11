@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Hugo"
+baseURL = "https://prometheus-science.com/"
+title = "Prometheus Science"
 theme = "bigspring"
 # post pagination
 paginate = "3"
